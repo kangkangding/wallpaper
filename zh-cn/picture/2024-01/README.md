@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2024-01)
 ![](https://cn.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_UHD.jpg&w=1000)Today: [布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非 (© Richard Du Toit/Minden Pictures)](https://cn.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2024-05)
 ![](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&w=1000)Today: [A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.Everglades90th_EN-US5663293086_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

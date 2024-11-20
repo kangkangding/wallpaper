@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2024-05)
 ![](https://cn.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg&w=1000)Today: [冈纳塞德，斯韦尔代尔，约克郡谷地国家公园，英格兰 (© Derek Croucher/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.YorkshireDalesNP_ZH-CN0775378262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

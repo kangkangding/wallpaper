@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2024-04)
 ![](https://cn.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg&w=1000)Today: [清晨雨中的猎豹，恩杜图平原，恩戈罗恩戈罗保护区，坦桑尼亚 (© Paul Souders/Getty Images)](https://cn.bing.com/th?id=OHR.CheetahRain_ZH-CN6722375507_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

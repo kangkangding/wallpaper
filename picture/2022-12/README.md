@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2022-12)
 ![](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg&w=1000)Today: [Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)](https://cn.bing.com/th?id=OHR.ChalkRock_EN-US3353441410_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2024-04)
 ![](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&w=1000)Today: [Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)](https://cn.bing.com/th?id=OHR.TulouFujian_EN-US6009679228_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

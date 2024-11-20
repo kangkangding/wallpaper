@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2024-09)
 ![](https://cn.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg&w=1000)Today: [大运河和安康圣母教堂的鸟瞰图，威尼斯，意大利 (© Bachir Moukarzel/Amazing Aerial Agency)](https://cn.bing.com/th?id=OHR.VeniceAerial_ZH-CN4070720525_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

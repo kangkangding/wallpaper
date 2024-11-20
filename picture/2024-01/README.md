@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2024-01)
 ![](https://cn.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&w=1000)Today: [Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)](https://cn.bing.com/th?id=OHR.AlbaceteSpain_EN-US7443919036_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

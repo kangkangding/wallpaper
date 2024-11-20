@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2023-07)
 ![](https://cn.bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&w=1000)Today: [Farmland in the Palouse, Washington (© EJ-J/Getty Images)](https://cn.bing.com/th?id=OHR.PalouseHills_EN-US1737990003_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

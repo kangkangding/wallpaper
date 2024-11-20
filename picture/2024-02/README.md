@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2024-02)
 ![](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&w=1000)Today: [Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)](https://cn.bing.com/th?id=OHR.BamburghCastleUK_EN-US3358821704_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

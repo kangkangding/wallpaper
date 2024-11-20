@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2023-06)
 ![](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&w=1000)Today: [Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)](https://cn.bing.com/th?id=OHR.BanyakIslands_EN-US2426505225_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

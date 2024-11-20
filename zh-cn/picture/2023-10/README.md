@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2023-10)
 ![](https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg&w=1000)Today: [万圣节南瓜灯 (© Bing Image Creator)](https://cn.bing.com/th?id=OHR.HalloweenCuteAI_ZH-CN1079713117_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

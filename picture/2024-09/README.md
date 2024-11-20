@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2024-09)
 ![](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&w=1000)Today: [West Cornwall Covered Bridge over the Housatonic River, Connecticut (© pabradyphoto/Getty Images)](https://cn.bing.com/th?id=OHR.ConnecticutBridge_EN-US4557226937_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,4 +1,4 @@
----
+title: Bing Wallpaper (2023-01)
 ![](https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg&w=1000)Today: [Ice and Snow Sailing European Championships on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg)
 |      |      |      |
 | :----: | :----: | :----: |
