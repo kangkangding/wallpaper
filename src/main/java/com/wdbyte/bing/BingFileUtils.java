@@ -44,7 +44,7 @@ public class BingFileUtils {
         allLines = allLines.stream().filter(s -> !s.isEmpty()).collect(Collectors.toList());
         List<Images> imgList = new ArrayList<>();
         imgList.add(new Images());
-        for (int i = 2; i < allLines.size(); i++) {
+        for (int i = 1; i < allLines.size(); i++) {
             String s = allLines.get(i).trim();
             int descEnd = s.indexOf("]");
             int urlStart = s.lastIndexOf("(") + 1;
@@ -69,8 +69,6 @@ public class BingFileUtils {
             Files.createFile(BING_PATH);
         }
         Files.write(BING_PATH, "title: Bing Wallpaper".getBytes());
-        Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
-        Files.write(BING_PATH, "## Bing Wallpaper".getBytes());
         Files.write(BING_PATH, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         for (Images images : imgList) {
             Files.write(BING_PATH, images.formatMarkdown().getBytes(), StandardOpenOption.APPEND);
@@ -201,7 +199,7 @@ public class BingFileUtils {
         if (!Files.exists(path)) {
             Files.createFile(path);
         }
-        String title = "## Bing Wallpaper";
+        String title = "title: Bing Wallpaper";
         if (name != null) {
             title = "## Bing Wallpaper (" + name + ")";
         }
