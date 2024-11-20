@@ -1,4 +1,4 @@
-## Bing Wallpaper (2024-10)
+---
 ![](https://cn.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg&w=1000)Today: [巴黎圣母院的奇美拉，法国 (© scaliger/Getty Images)](https://cn.bing.com/th?id=OHR.GargoyleParis_ZH-CN1668628241_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

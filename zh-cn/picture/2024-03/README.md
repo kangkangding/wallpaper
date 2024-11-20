@@ -1,4 +1,4 @@
-## Bing Wallpaper (2024-03)
+---
 ![](https://cn.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg&w=1000)Today: [潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)](https://cn.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

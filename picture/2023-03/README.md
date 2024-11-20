@@ -1,4 +1,4 @@
-## Bing Wallpaper (2023-03)
+---
 ![](https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&w=1000)Today: [Peacock feathers (© Sarayut Thaneerat/Getty Images)](https://cn.bing.com/th?id=OHR.PeacockFeathers_EN-US0365605509_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

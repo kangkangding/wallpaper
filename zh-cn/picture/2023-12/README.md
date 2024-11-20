@@ -1,4 +1,4 @@
-## Bing Wallpaper (2023-12)
+---
 ![](https://cn.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg&w=1000)Today: [帕那空奇里上空的烟花，碧武里府,泰国 (© noomcpk/Shutterstock)](https://cn.bing.com/th?id=OHR.ThailandNewYears_ZH-CN2058192262_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

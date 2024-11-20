@@ -1,4 +1,4 @@
-## Bing Wallpaper (2023-09)
+---
 ![](https://cn.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&w=1000)Today: [Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)](https://cn.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

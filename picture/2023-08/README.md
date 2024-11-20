@@ -1,4 +1,4 @@
-## Bing Wallpaper (2023-08)
+---
 ![](https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&w=1000)Today: [Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)](https://cn.bing.com/th?id=OHR.NingalooShark_EN-US2673625094_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,4 +1,4 @@
-## Bing Wallpaper (2024-06)
+---
 ![](https://cn.bing.com/th?id=OHR.UbudBali_ZH-CN4891348277_UHD.jpg&w=1000)Today: [乌布寺庙的石雕,巴厘岛,印度尼西亚 (© R. Schönebaum/plainpicture)](https://cn.bing.com/th?id=OHR.UbudBali_ZH-CN4891348277_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |
