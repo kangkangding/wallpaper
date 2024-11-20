@@ -1,4 +1,6 @@
-## Bing Wallpaper
+title: Bing Wallpaper
+2024-11-21 | [Giant land art painting 'Beyond Crisis' by Saype, Leysin, Switzerland (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)](https://cn.bing.com/th?id=OHR.BeyondSaype_EN-US4398054405_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
+
 2024-11-20 | [Tasmans Arch, Tasmania, Australia (© Gary Bell/Minden Pictures)](https://cn.bing.com/th?id=OHR.TasmansArch_EN-US4274981499_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
 
 2024-11-19 | [Porthcawl Lighthouse, Wales (© Leighton Collins/Alamy)](https://cn.bing.com/th?id=OHR.PorthcawlLighthouse_EN-US4147042402_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4) 
@@ -2772,3 +2774,4 @@
 2021-02-02 | [大格洛克纳山山峰前的土拨鼠，奥地利 (© SeppFriedhuber/Getty Images)](https://cn.bing.com/th?id=OHR.RainbowMarmot_ZH-CN4605973404_UHD.jpg) 
 
 2021-02-01 | [日落后的托莱多全景，西班牙 (© Frank Fischbach/Alamy)](https://cn.bing.com/th?id=OHR.ToledoIldefonso_ZH-CN4507206651_UHD.jpg) 
+
