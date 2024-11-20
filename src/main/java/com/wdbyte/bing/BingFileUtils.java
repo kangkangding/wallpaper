@@ -204,7 +204,9 @@ public class BingFileUtils {
             title = "title: Bing Wallpaper (" + name + ")";
         }
         Files.write(path, "---".getBytes());
+        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         Files.write(path, title.getBytes());
+        Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         Files.write(path, "---".getBytes());
         Files.write(path, System.lineSeparator().getBytes(), StandardOpenOption.APPEND);
         Files.write(path, imagesList.get(0).toLarge().getBytes(), StandardOpenOption.APPEND);
