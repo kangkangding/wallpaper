@@ -1,5 +1,5 @@
 title: Bing Wallpaper (2025-10)
-![](https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&w=1000)Today: [玛丽皇后号邮��的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)](https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
+![](https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&w=1000)Today: [玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)](https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-10-24 [download 4k](https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-10-24 [download 4k](https://cn.bing.com/th?id=OHR.QueenMary_ZH-CN0468294074_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|![](https://cn.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-10-23 [download 4k](https://cn.bing.com/th?id=OHR.SnowLeopard_ZH-CN6644701381_UHD.jpg&rf=LaDigue_UHD.jpg&pid=hp&w=3840&h=2160&rs=1&c=4)|
